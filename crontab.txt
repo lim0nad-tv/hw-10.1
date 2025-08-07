@@ -1,0 +1,3 @@
+5 8 * * * /usr/local/bin/backup-dir.sh /home/davlat/ /tmp/backup/ # резервное копирование существующей папки
+6 8 * * * /usr/local/bin/backup-dir.sh /home/davlat1/ /tmp/backup/ № резервное копирование несуществующей папки
+
